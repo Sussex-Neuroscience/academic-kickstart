@@ -26,7 +26,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/Sussex-Neuroscience/electrode-calibration"
-url_pdf: "https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -37,4 +37,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Based on [Sinkala et al 2012](https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf) we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications
+A project developed for the [Singer Lab](<www.sussex.ac.uk/profiles/454349/research>), based on [Sinkala et al 2012](<https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf>) we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.
+
+
+
+[**Project repository**](<https://github.com/Sussex-Neuroscience/electrode-calibration>)  
+<br>
+**Author:** [Andre M Chagas](<https://amchagas.github.io>)
