@@ -42,5 +42,3 @@ A project developed for the [Singer Lab](<www.sussex.ac.uk/profiles/454349/resea
 
 
 [**Project repository**](<https://github.com/Sussex-Neuroscience/electrode-calibration>)  
-<br>
-**Author:** [Andre M Chagas](<https://amchagas.github.io>)

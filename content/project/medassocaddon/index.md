@@ -3,7 +3,7 @@
 
 title: "Med Associates Add-On"
 summary: "An add on to extend functionality of Med Associates behavioural system"
-authors: [Andre Maia Chagas]
+authors: [andre]
 tags: ["Behaviour","Operant conditioning", "Pavlovian conditioning", "skinner box"]
 categories: ["In progress"]
 date: 2020-02-14T05:21:12Z
@@ -45,5 +45,3 @@ This is being developed for the [Crombag lab](<http://www.sussex.ac.uk/profiles/
 
 
 [**Project repository**](<https://github.com/Sussex-Neuroscience/med-associates-addon>)  
-<br>
-**Author:** [Andre M Chagas](<https://amchagas.github.io>)

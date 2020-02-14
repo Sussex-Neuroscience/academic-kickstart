@@ -45,5 +45,3 @@ This system was developed as part of a research project of the [Ward Lab](http:/
 The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).
 
 [**Project repository**](<https://github.com/Sussex-Neuroscience/voltage-amplifier>)  
-<br>
-**Author:** [Andre M Chagas](<https://amchagas.github.io>)

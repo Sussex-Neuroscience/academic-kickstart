@@ -76,3 +76,5 @@ I’m passionate about open science and open source hardware, and how those two 
 I started Open Neuroscience , and volunteer at Trend in Africa as an open source adviser and by organizing and running Open Labware workshops.
 
 Currently I work at the Department of Neurosciences in the University of Sussex, where I develop equipment to support research labs.
+
+[**Personal site**](amchagas.github.io)
