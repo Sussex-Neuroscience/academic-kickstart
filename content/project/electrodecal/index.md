@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Electrode calibration"
 summary: 'A system to calibrate electrodes used in Voltammetry experiments'
-authors: ["Andre Maia Chagas"]
+authors: ["andre"]
 tags: ["Voltammetry", "microfluidics"]
 categories: []
 date: 2020-01-31T11:02:20Z

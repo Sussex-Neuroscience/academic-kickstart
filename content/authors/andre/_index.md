@@ -1,24 +1,24 @@
 ---
 # Display name
-name: Sussex Neuroscience
+name: Andre Maia Chagas
 
 # Username (this should match the folder name)
 authors:
-- admin
+- andre
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sussex
+- name: Sussex Neuroscience
   url: "http://www.sussex.ac.uk/sussexneuroscience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in making research and education more accessible with open source tools.
 
 interests:
 - Open Science
@@ -43,18 +43,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SussexNeuro
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Chagas_am
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/sussex-neuroscience
+  link: https://github.com/amchagas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to the Sussex Neuroscience Repository for Open Science tools!
+I’m passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
+
+I started Open Neuroscience , and volunteer at Trend in Africa as an open source adviser and by organizing and running Open Labware workshops.
+
+Currently I work at the Department of Neurosciences in the University of Sussex, where I develop equipment to support research labs.

@@ -3,7 +3,7 @@
 
 title: "Voltage amplifier"
 summary: "A voltage amplifier compatible with Arduino Due"
-authors: ["Andre Maia Chagas"]
+authors: [andre]
 tags: ["fMRI","Psychology","arduino"]
 categories: []
 date: 2020-02-04T05:44:14Z
