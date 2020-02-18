@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hyperscanner"
-summary: ""
-authors: []
-tags: []
+title: "Hyperspectral Scanner"
+summary: "A low-cost hyperspectral scanner for natural imaging above and under water"
+authors: [noora, tom]
+tags: [hyperspectral scanner, colour, vision, ecology]
 categories: []
 date: 2020-02-18T15:00:24Z
 
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/BadenLab/Hyperspectral-scanner"
+url_pdf: "https://www.nature.com/articles/s41598-019-47220-6"
 url_slides: ""
 url_video: ""
 

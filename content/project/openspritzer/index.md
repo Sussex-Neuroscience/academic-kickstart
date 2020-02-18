@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Openspritzer"
-summary: ""
-authors: []
-tags: []
+title: "Open Spritzer"
+summary: "An open hardware pressure ejection system for reliably delivering picolitre volumes."
+authors: [tom, maxime, chris]
+tags: [Pico spritzer, injection]
 categories: []
 date: 2020-02-18T15:00:33Z
 
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/BadenLab/openspritzer"
+url_pdf: "https://www.nature.com/articles/s41598-017-02301-2"
 url_slides: ""
 url_video: ""
 

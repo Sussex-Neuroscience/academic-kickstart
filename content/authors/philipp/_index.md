@@ -3,7 +3,7 @@
 name: Philipp Bartel
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - philipp
 
 # Is this the primary user of the site?
@@ -18,13 +18,13 @@ organizations:
   url: "http://www.sussex.ac.uk/sussexneuroscience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: #I'm interested in making research and education more accessible with open source tools.
+bio: I'm interested in neurophysiology of colour vision and scientific methodology.
 
 interests:
-#- Open Science
-#- Open Source Hardware
-#- Open Source Software
-#- Citizen Science
+- Vision
+- Colour
+- Zebrafish
+- Calcium Imaging
 
 #education:
 #  courses:
@@ -46,15 +46,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/Chagas_am
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/philipp_bartel
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/amchagas
+- icon: github
+  icon_pack: fab
+  link: https://github.com/PhilippBartel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +70,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+​
+Currently I study chromatic and colour vision in zebrafish in the laboratory of Tom Baden. My background is psychophysics and electrophysiology.  
+  
+​
+Within the lab, everyone specialises a bit. I find myself coding and analysing data in front of a PC more often than at the setup.  
+  
+​
+On the side, I am interested in causal models and causal reasoning; both in philosophy of science and in computing.  
+​

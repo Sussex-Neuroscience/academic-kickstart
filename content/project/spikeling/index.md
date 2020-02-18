@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Spikeling"
-summary: ""
-authors: []
-tags: []
+summary: "A hardware implementation of the Izhikevich model of a spiking neuron"
+authors: [tom]
+tags: [artificial neuron, arduino, education]
 categories: []
 date: 2020-02-18T14:59:48Z
 
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/BadenLab/spikeling"
+url_pdf: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006760"
 url_slides: ""
 url_video: ""
 

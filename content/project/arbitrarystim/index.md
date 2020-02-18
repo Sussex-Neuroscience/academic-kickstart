@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Arbitrarystim"
+title: "Open Visual Stimulator"
 summary: "An arbitrary-spectrum spatial visual stimulator  for vision research"
 authors: [andre, maxime, tom, philipp]
 tags: [stimulator, visual neuroscience]
