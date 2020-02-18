@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Maxime Zimmerman
+name: Maxime Zimmermann
 
 # Username (this should match the folder name)
 authors:
@@ -18,13 +18,14 @@ organizations:
   url: "http://www.sussex.ac.uk/sussexneuroscience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: #I'm interested in making research and education more accessible with open source tools.
+bio: Neuroscientist interested in developing Open Hardware tools and equipment for academic research and education
 
 interests:
-#- Open Science
-#- Open Source Hardware
-#- Open Source Software
-#- Citizen Science
+- Open Science
+- Open Source Hardware
+- Citizen Science
+- Colour vision
+- Retinal circuits
 
 #education:
 #  courses:
@@ -46,15 +47,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/Chagas_am
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MJY_Zimmermann
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/amchagas
+- icon: github
+  icon_pack: fab
+  link: https://github.com/MaxZimmer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "m.zimmermann@sussex.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,3 +72,8 @@ user_groups:
 - Visitors
 ---
 
+I am currently studying retinal circuits underlying colour vision processing at the university of Sussex.  
+  
+I started designing Open Hardware equipment to develop new protocol for our neuroscience lab, which overtime became an important part of my research work.  
+  
+Now, I am looking to develop more Open Source tools and equipement that could benefit our peers' research in academia and improve scientific access in education.  
