@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tetrachromatic Stimulator"
+title: "LED Zappelin'"
 summary: "An OpenSource LED stimulator for visual and optogenetics stimulation in combination with 2-photon recording"
 authors: [maxime, philipp, andre, tom]
 tags: [visual neuroscience, visual stimulator, hyperspectral]
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/BadenLab/Tetra-Chromatic-Stimulator"
-url_pdf: ""
+url_code: "https://github.com/BadenLab/LED-Zappelin"
+url_pdf: "https://www.biorxiv.org/content/10.1101/2020.03.10.986000v1"
 url_slides: ""
 url_video: ""
 
