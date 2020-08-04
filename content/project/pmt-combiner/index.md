@@ -1,22 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "PMT signal combiner"
-summary: "A simple OpAmp circuit to combine voltage signals coming from different Thorlabs PM2101 photomultipliers+amplifiers system (https://www.thorlabs.com/thorproduct.cfm?partnumber=PMT2101/M)"
-authors: [andre]
-tags: [2-photon, microscopy]
+summary: 'A simple circuit to combine voltage signals coming from different PMTs'
+authors: ["andre"]
+tags: ["2-photon", "microscopy"]
 categories: []
-date: 2020-08-04T09:28:56Z
-
+date: 2020-08-03T11:02:20Z
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
+# page_type: project
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -27,7 +25,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/sussex-neuroscience/pmt-combiner/"
+url_code: "https://github.com/sussex-neuroscience/pmt-combiner"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,7 +37,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 This project got started when there was the need to combine the signals coming out
 of two photo multiplier tubes (PMTs) installed in one of the 2-photon microscopes at the microscopy unit in Sussex Neuroscience.
 
