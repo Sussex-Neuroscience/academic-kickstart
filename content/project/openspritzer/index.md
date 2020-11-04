@@ -4,7 +4,7 @@
 title: "Open Spritzer"
 summary: "An open hardware pressure ejection system for reliably delivering picolitre volumes."
 authors: [tom, maxime, chris]
-tags: [Pico spritzer, injection]
+tags: [Pico spritzer, injection, ]
 categories: []
 date: 2020-02-18T15:00:33Z
 

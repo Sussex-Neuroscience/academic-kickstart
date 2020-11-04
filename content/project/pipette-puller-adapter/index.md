@@ -4,7 +4,7 @@
 title: "Pipette Puller Adapter"
 summary: ""
 authors: [andre]
-tags: [Mass spectrometry, chemistry]
+tags: [Mass spectrometry, chemistry, electrophysiology]
 categories: []
 date: 2020-02-18T14:41:57Z
 

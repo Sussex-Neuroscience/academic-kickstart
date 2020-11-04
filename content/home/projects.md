@@ -21,17 +21,58 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
+
+
    [[content.filter_button]]
      name = "All"
      tag = "*"
+   [[content.filter_button]]
+     name = "Ecology"
+     tag = "ecology"
 
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Vision"
+     tag = "vision"
+   
+   [[content.filter_button]]
+     name = "Voltammetry"
+     tag = "voltammetry"
+     
+   [[content.filter_button]]
+     name = "Microfluidics"
+     tag = "microfluidics"
 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Stimulator"
+     tag = "stimulator"
+
+   [[content.filter_button]]
+     name = "Behaviour"
+     tag = "behaviour"
+
+   [[content.filter_button]]
+     name = "fMRI"
+     tag = "fMRI"
+
+   [[content.filter_button]]
+     name = "Education"
+     tag = "education"
+  [[content.filter_button]]
+     name = "Microscopy"
+     tag = "microscopy"
+   [[content.filter_button]]
+     name = "2 Photon"
+     tag = "2-photon"
+
+   [[content.filter_button]]
+     name = "Electrophysiology"
+     tag = "electrophysiology"
+
+   [[content.filter_button]]
+     name = "Calibration tools"
+     tag = "calibration"
+
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

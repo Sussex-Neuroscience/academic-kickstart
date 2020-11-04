@@ -4,7 +4,7 @@
 title: "Open Visual Stimulator"
 summary: "An arbitrary-spectrum spatial visual stimulator  for vision research"
 authors: [andre, maxime, tom, philipp]
-tags: [stimulator, visual neuroscience]
+tags: [stimulator, visual neuroscience, vision,2-photon]
 categories: []
 date: 2020-02-18T15:00:56Z
 
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/eulerlab/open-visual-stimulator/"
-url_pdf: ""
+url_pdf: "https://elifesciences.org/articles/48779"
 url_slides: ""
 url_video: ""
 

@@ -4,7 +4,7 @@
 title: "Med Associates Add-On"
 summary: "An add on to extend functionality of Med Associates behavioural system"
 authors: [andre]
-tags: ["Behaviour","Operant conditioning", "Pavlovian conditioning", "skinner box"]
+tags: ["behaviour"]
 categories: ["In progress"]
 date: 2020-02-14T05:21:12Z
 

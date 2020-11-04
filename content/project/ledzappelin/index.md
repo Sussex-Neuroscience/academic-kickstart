@@ -4,7 +4,7 @@
 title: "LED Zappelin'"
 summary: "An OpenSource LED stimulator for visual and optogenetics stimulation in combination with 2-photon recording"
 authors: [maxime, philipp, andre, tom]
-tags: [visual neuroscience, visual stimulator, hyperspectral]
+tags: [visual neuroscience, stimulator,vision , hyperspectral]
 categories: []
 date: 2020-02-18T15:58:59Z
 

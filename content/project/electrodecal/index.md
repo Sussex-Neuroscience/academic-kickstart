@@ -3,7 +3,7 @@
 title: "Electrode calibration"
 summary: 'A system to calibrate electrodes used in Voltammetry experiments'
 authors: ["andre"]
-tags: ["Voltammetry", "microfluidics"]
+tags: ["voltammetry", "microfluidics"]
 categories: []
 date: 2020-01-31T11:02:20Z
 # Optional external URL for project (replaces project detail page).

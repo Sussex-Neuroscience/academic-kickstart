@@ -3,7 +3,7 @@
 title: "Fast Diode"
 summary: 'A system to measure fast light transients'
 authors: ["andre"]
-tags: ["visual", "neuroscience"]
+tags: ["vision", "neuroscience", "calibration"]
 categories: []
 date: 2020-03-26T11:02:20Z
 # Optional external URL for project (replaces project detail page).
