@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Electric lens driver"
-summary: "A current source to drive an Electrically tunable lens"
-authors: [andre, phillip, filip]
-tags: [2-photon,microscopy]
+title: "Shaker repair"
+summary: "Worn out belt replacement"
+authors: [andre]
+tags: [repair, molecular]
 categories: []
-date: 2020-02-18T15:00:33Z
+date: 2020-11-06T15:00:56Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/BadenLab/DBOscope"
-url_pdf: "https://www.biorxiv.org/content/10.1101/821405v1.full"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Described in the [DBO Scope paper](<https://www.biorxiv.org/content/10.1101/821405v1.full>), this driver can be used to control electric tunable lenses. These lenses are used for fast Z-axis scans.
+
+The belt responsible for translating motor movement to the shaking unit got worn out and broke off. 
+using an elastic band we can get the device working again.

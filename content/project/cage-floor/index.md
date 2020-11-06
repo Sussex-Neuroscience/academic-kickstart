@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Printed replacement part"
+title: "Cage replacement part"
 summary: "Simple printed replacement for an acrylic part"
 authors: [andre]
 tags: [repair, behaviour]

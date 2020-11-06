@@ -1,22 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Printed replacement part"
-summary: "Simple printed replacement for an acrylic part"
-authors: [andre]
-tags: [repair, behaviour]
+title: "VR/AR goggles"
+summary: 'A 3D printed goggle to be used with google cardboard framework'
+authors: ["andre"]
+tags: ["education"]
 categories: []
-date: 2020-10-06T15:00:56Z
-
+date: 2020-11-03T11:02:20Z
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
+# page_type: project
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -27,7 +25,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/Sussex-Neuroscience/VR-AR-goggles"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,5 +38,5 @@ url_video: ""
 slides: ""
 ---
 
-Simple printed replacement for an acrylic part that broke off. 
-Printed in PLA, it holds the metal rods composing the flooring of a mouse behavioural box
+Based on online resources, we are simply putting together a model present in thingiverse, some cheap lenses and magnets bought on ebay.
+
