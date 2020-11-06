@@ -25,7 +25,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/Open-2-Photon-Microscope/pockel-cell-controller"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

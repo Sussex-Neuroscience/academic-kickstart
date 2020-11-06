@@ -6,7 +6,7 @@ summary: "Worn out belt replacement"
 authors: [andre]
 tags: [repair, molecular]
 categories: []
-date: 2020-11-06T15:00:56Z
+date: 2020-11-06T11:00:56Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,6 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 
 The belt responsible for translating motor movement to the shaking unit got worn out and broke off. 
 using an elastic band we can get the device working again.
