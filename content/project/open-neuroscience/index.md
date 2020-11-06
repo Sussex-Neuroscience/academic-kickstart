@@ -4,7 +4,7 @@
 title: "Open Neuroscience"
 summary: "A curated repository for open source projects related to neurosciences"
 authors: [andre]
-tags: [repository]
+tags: [repository,education]
 categories: []
 date: 2020-10-06T15:00:56Z
 
